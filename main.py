@@ -531,8 +531,8 @@ all_lines_simple =  ["更新时间,#genre#"] + [version] + ['\n'] +\
              ["电影频道,#genre#"] + sort_data(dy_dictionary,correct_name_data(dy_lines)) + ['\n'] + \
              ["电视剧频道,#genre#"] + sort_data(dsj_dictionary,correct_name_data(dsj_lines)) + ['\n'] + \
              ["明星,#genre#"] + sort_data(mx_dictionary,correct_name_data(mx_lines)) + ['\n'] + \
-             ["主题片,#genre#"] + sort_data(ztp_dictionary,correct_name_data(ztp_lines)) + ['\n'] + \ 
-             ["动画片,#genre#"] + sort_data(dhp_dictionary,correct_name_data(dhp_lines))+ ['\n'] + \   
+             ["主题片,#genre#"] + sort_data(ztp_dictionary,correct_name_data(ztp_lines)) + ['\n'] + \
+             ["动画片,#genre#"] + sort_data(dhp_dictionary,correct_name_data(dhp_lines))+ ['\n'] + \
              ["解说频道,#genre#"] + sorted(set(js_lines))
 
 # 合并所有对象中的行文本（去重，排序后拼接）
