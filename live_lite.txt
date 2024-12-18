@@ -1,5 +1,5 @@
 更新时间,#genre#
-20241218 04:31:10,https://gitee.com/xingpeibin/zb/raw/master/ds.mp4
+20241218 04:31:10,url
 
 
 广东频道,#genre#
