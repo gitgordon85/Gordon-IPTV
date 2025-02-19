@@ -1,3 +1,4 @@
+http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 http://120.233.84.209:3568/tv.txt
 http://47.120.41.246:8899/zb.txt
 https://ygbh.site/php/bhzb.php
